@@ -1,3 +1,33 @@
+
+
+
+<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/9e4b7982-834c-4d68-8173-53d178f9bb5f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # AI_Prediction
 Microsoft Summer Internship 2024 AI Project
 
